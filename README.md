@@ -2,6 +2,7 @@
 This repository contains the source code for five Python-based projects, each demonstrating different programming concepts and real-world applications. These projects highlight various aspects of Python development, such as GUI programming, file handling, data processing, and algorithmic problem-solving
 
 CodSoft Internship – Python Programming (July Batch B38) 
+
 Welcome to my internship submission for the CodSoft Virtual Internship Program, completed between 05 July – 05 August, 2025.
 
 Intern Profile Name: AVESH HASAN
